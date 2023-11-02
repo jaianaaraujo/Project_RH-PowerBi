@@ -33,17 +33,6 @@ Identificamos a necessidade de analisar:
 ### 📈 Correlação entre Idade e Salário
 - A correlação entre idade e salário é -0.056, indicando uma relação muito fraca/não significativa.
 
-### 🚪 Taxa de Demissão por Departamento e Filial
-- Departamento de Atendimento, Gerência e RH: 100% de demissões.
-- Departamento Comercial: 75% de demissões.
-- Filial RJ: 20% de não demissões.
-- Filial SP: 22.22% de não demissões.
-
-### 🚻 Diferenças de Gênero
-- Salário Médio Masculino: R$ 6.723,08
-- Salário Médio Feminino: R$ 3.898,00
-- Contratações Feitas por Homens: 1,85 em média.
-- Contratações Feitas por Mulheres: 1,00 em média.
 
 ### 👥 Distribuição de Idade entre os Empregados
 - Idade Média: 32 anos
