@@ -20,11 +20,41 @@ Identificamos a necessidade de analisar:
 - Salário por Nome
 - Total de Despesas por Área
 
-## Como Usar
+## 📊 Insghts obtidos:
 
-1. Clone este repositório.
-2. Abra os arquivos no Power BI para visualizar os dashboards e relatórios.
-3. Adapte e explore os dados conforme necessário.
+### 💰 Salário Médio por Departamento
+- Gerência: R$ 10.200,00
+- Comercial: R$ 6.750,00
+- Recursos Humanos (RH): R$ 5.000,00
+- Financeiro: R$ 4.594,00
+- Atendimento: R$ 2.850,00
+- Estagiária: R$ 1.500,00
+
+### 📈 Correlação entre Idade e Salário
+- A correlação entre idade e salário é -0.056, indicando uma relação muito fraca/não significativa.
+
+### 🚪 Taxa de Demissão por Departamento e Filial
+- Departamento de Atendimento, Gerência e RH: 100% de demissões.
+- Departamento Comercial: 75% de demissões.
+- Filial RJ: 20% de não demissões.
+- Filial SP: 22.22% de não demissões.
+
+### 🚻 Diferenças de Gênero
+- Salário Médio Masculino: R$ 6.723,08
+- Salário Médio Feminino: R$ 3.898,00
+- Contratações Feitas por Homens: 1,85 em média.
+- Contratações Feitas por Mulheres: 1,00 em média.
+
+### 👥 Distribuição de Idade entre os Empregados
+- Idade Média: 32 anos
+- Faixa Etária: 19 a 65 anos
+
+### 📅 Taxas de Ausência (Faltas) por Departamento ou Filial
+- Financeiro: Média de 3,5 faltas.
+- Comercial e Gerência: Média de 2,0 e 2,4 faltas respectivamente.
+- Filial RJ: Média de 4,4 faltas.
+- Filiais BH e MG: Sem faltas registradas.
+
 
 ## Contribuições
 
