@@ -1,53 +1,62 @@
-# Project_RH-PowerBi
+# Project_RH-PowerBi  
 
-## Descrição
+## Description  
 
-Este repositório contém um projeto de análise de dados de RH utilizando o Power BI. O projeto visa identificar tendências e padrões relacionados a faltas, despesas, salários e outros indicadores relevantes.
+This repository contains an HR data analysis project using Power BI.  
+The project aims to identify trends and patterns related to absences, expenses, salaries, and other relevant indicators.  
 
-## Problema
+---
 
-Identificamos a necessidade de analisar:
-- O maior número de faltas;
-- Os maiores gastos entre nossas filiais;
-- A média de idade, para entender sua influência na produtividade;
-- A soma total de salários para avaliar nossos gastos com folha de pagamento.
+## Problem  
 
-## Indicadores
+We identified the need to analyze:  
+- The highest number of absences;  
+- The highest expenses among our branches;  
+- The average employee age to understand its influence on productivity;  
+- The total sum of salaries to evaluate payroll expenses.  
 
-- Total de Faltas
-- Faltas por Departamento
-- Média de Gastos por Filial (Salário)
-- Salário por Nome
-- Total de Despesas por Área
+---
 
-## 📊 Insghts obtidos:
+## Indicators  
 
-### 💰 Salário Médio por Departamento
-- Gerência: R$ 10.200,00
-- Comercial: R$ 6.750,00
-- Recursos Humanos (RH): R$ 5.000,00
-- Financeiro: R$ 4.594,00
-- Atendimento: R$ 2.850,00
-- Estagiária: R$ 1.500,00
+- Total Absences  
+- Absences by Department  
+- Average Expenses per Branch (Salary)  
+- Salary by Employee Name  
+- Total Expenses by Area  
 
-### 📈 Correlação entre Idade e Salário
-- A correlação entre idade e salário é -0.056, indicando uma relação muito fraca/não significativa.
+---
 
+## 📊 Insights Obtained  
 
-### 👥 Distribuição de Idade entre os Empregados
-- Idade Média: 32 anos
-- Faixa Etária: 19 a 65 anos
+### 💰 Average Salary by Department  
+- Management: R$ 10,200.00  
+- Sales: R$ 6,750.00  
+- Human Resources (HR): R$ 5,000.00  
+- Finance: R$ 4,594.00  
+- Customer Service: R$ 2,850.00  
+- Intern: R$ 1,500.00  
 
-### 📅 Taxas de Ausência (Faltas) por Departamento ou Filial
-- Financeiro: Média de 3,5 faltas.
-- Comercial e Gerência: Média de 2,0 e 2,4 faltas respectivamente.
-- Filial RJ: Média de 4,4 faltas.
-- Filiais BH e MG: Sem faltas registradas.
+### 📈 Correlation Between Age and Salary  
+- The correlation between age and salary is **-0.056**, indicating a very weak or non-significant relationship.  
 
+### 👥 Age Distribution Among Employees  
+- **Average Age:** 32 years  
+- **Age Range:** 19 to 65 years  
 
-## Contribuições
+### 📅 Absence Rates by Department or Branch  
+- **Finance:** Average of **3.5** absences.  
+- **Sales and Management:** Averages of **2.0** and **2.4** absences, respectively.  
+- **Branch RJ:** Average of **4.4** absences.  
+- **Branches BH and MG:** No recorded absences.  
 
-Contribuições são bem-vindas! Por favor, crie um issue ou faça um pull request.
+---
 
-## Imagem
-![Imagem do dashboard](https://github.com/jaianaaraujo/Project_RH-PowerBi/raw/main/imagem%20do%20dashboard.jpeg)
+## Contributions  
+
+Contributions are welcome! Please create an issue or submit a pull request.  
+
+---
+
+## Image  
+![Dashboard Image](https://github.com/jaianaaraujo/Project_RH-PowerBi/raw/main/imagem%20do%20dashboard.jpeg)
